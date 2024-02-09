@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Zimbabwe
+  adjective: Zimbabwe
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -56,9 +56,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: katoval@zimstat.co.zw
+  suggestions: katoval@zimstat.co.zw
+  functional: zim_sdgs@zimstat.co.zw
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
@@ -66,9 +66,9 @@ footer_language_toggle: none
 footer_menu:
   - path: /contact-us
     translation_key: menu.contact_us
-  - path: 'https://twitter.com/MyTwitterAccount'
+  - path: 'https://twitter.com/zimstat'
     translation_key: general.twitter
-  - path: 'https://facebook.com/MyFacebookAccount'
+  - path: 'https://facebook.com/zimstat'
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
@@ -79,13 +79,13 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Zimstat at SDG
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+     Zimstat has a mission of producing effective and efficient statistical system that contributes to the improvement of the
+     wellbeing of all citizens by 2030 including SDGs, it is the implementing Agency.
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://zimstat.co.zw'
     rule_color: ''
   - title: Nam vestibulum
     content: |
