@@ -80,9 +80,12 @@ frontpage_cards:
     button_link: ''
     rule_color: ''
   - title: Zimstat at SDG
-    content: |
-     Zimstat has a mission of producing effective and efficient statistical system that contributes to the improvement of the
-     wellbeing of all citizens by 2030 including SDGs, it is the implementing Agency.
+    content: >
+      Zimstat has a mission of producing effective and efficient statistical
+      system that contributes to the improvement of the
+
+      wellbeing of all citizens by 2030 including SDGs, it is the implementing
+      Agency.
     include: ''
     button_label: Read more
     button_link: 'https://zimstat.co.zw'
@@ -214,10 +217,10 @@ progress_status:
   status_help: ''
   status_types: []
 progressive_web_app:
-  enabled: false
-  name: ''
-  short_name: ''
-  precaching: false
+  enabled: true
+  name: Indicators for SDG-Zimbabwe
+  short_name: SDGs Zimbabwe
+  precaching: true
 proxy_indicators:
   label: ''
   description: ''
