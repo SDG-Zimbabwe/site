@@ -91,9 +91,17 @@ frontpage_cards:
     button_link: https://zimstat.co.zw
     rule_color: ''
   - title: Publications & Useful resources
-    content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      content: >
+ 
+      [Leaving no one behind - a review of who has been most affected by the coronavirus pandemic in the UK](https://www.ons.gov.uk/economy/environmentalaccounts/articles/leavingnoonebehindareviewofwhohasbeenmostaffectedbythecoronaviruspandemicintheuk/december2021)
+ 
+ 
+      [UK Sustainable Development Goals: use of non-official sources](https://www.ons.gov.uk/economy/environmentalaccounts/methodologies/uksustainabledevelopmentgoalsuseofnonofficialsources)
+ 
+      <br/><br/>
+ 
+      <a href="./news" aria-label="More publications">More
+      publications...</a>
     include: ''
     button_label: National Strategy for the Development of Statistics III (NSDS III)
     button_link: https://zimstats.devpreview.net/about_us/nsds/
@@ -190,7 +198,7 @@ menu:
     translation_key: menu.reporting_status
     dropdown: []
   - path: /news
-    translation_key: menu.updates
+    translation_key: menu.Publications
     dropdown: []
   - path: /faq
     translation_key: menu.faq
