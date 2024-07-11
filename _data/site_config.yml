@@ -68,7 +68,7 @@ footer_menu:
     translation_key: menu.contact_us
   - path: https://twitter.com/zimstat
     translation_key: general.twitter
-  - path: https://facebook.com/zimstat
+  - path: https://facebook.com/zimstat.zimstat
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
@@ -93,6 +93,8 @@ frontpage_cards:
   - title: Publications & Useful resources
     content: >
  
+      [National Strategy for the Development of Statistics III (NSDS III)](https://zimstats.devpreview.net/about_us/nsds/)
+      
       [Leaving no one behind - a review of who has been most affected by the coronavirus pandemic in the UK](https://www.ons.gov.uk/economy/environmentalaccounts/articles/leavingnoonebehindareviewofwhohasbeenmostaffectedbythecoronaviruspandemicintheuk/december2021)
  
  
