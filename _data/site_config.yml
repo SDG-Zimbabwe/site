@@ -95,18 +95,22 @@ frontpage_cards:
  
       [National Strategy for the Development of Statistics III (NSDS III)](https://zimstats.devpreview.net/about_us/nsds/)
       
-      [Leaving no one behind - a review of who has been most affected by the coronavirus pandemic in the UK](https://www.ons.gov.uk/economy/environmentalaccounts/articles/leavingnoonebehindareviewofwhohasbeenmostaffectedbythecoronaviruspandemicintheuk/december2021)
+      
+      [Zimbabwe Peer Review of the National Statistical System Report](https://www.zimstat.co.zw/wp-content/uploads/nss/2023/ZIMBABWE_NSS_PEER_REVIEW_REPORT.pdf)
  
  
-      [UK Sustainable Development Goals: use of non-official sources](https://www.ons.gov.uk/economy/environmentalaccounts/methodologies/uksustainabledevelopmentgoalsuseofnonofficialsources)
+      [The Sustainable Development Goals in Zimbabwe](https://zimbabwe.un.org/en)
+      
+
+      [The Global Goals](https://www.globalgoals.org/)
  
       <br/><br/>
  
       <a href="./news" aria-label="More publications">More
       publications...</a>
     include: ''
-    button_label: National Strategy for the Development of Statistics III (NSDS III)
-    button_link: https://zimstats.devpreview.net/about_us/nsds/
+    button_label: Publications
+    button_link: https://sdg-zimbabwe.github.io/site/news/
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
