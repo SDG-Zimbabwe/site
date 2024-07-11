@@ -106,8 +106,7 @@ frontpage_cards:
  
       <br/><br/>
  
-      <a href="./news" aria-label="More publications">More
-      publications...</a>
+      
     include: ''
     button_label: Publications
     button_link: https://sdg-zimbabwe.github.io/site/news/
