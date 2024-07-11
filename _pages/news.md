@@ -17,7 +17,7 @@ Household welfare monitoring statistics help monitor and mitigate the socio-econ
 <small> January 2023</small>
 <br>
 <br>
-## [National Strategy for the Development of Statistics II(NSDS2)](https://www.zimstat.co.zw/wp-content/uploads/nss/2023/Zimbabwe NSDS2_SIGNED_COPY.pdf)
+## [National Strategy for the Development of Statistics II(NSDS2)](https://www.zimstat.co.zw/wp-content/uploads/nss/2023/ZIMBABWE_NSS_PEER_REVIEW_REPORT.pdf)
 
 The Government of Zimbabwe has committed itself to implementing all the 17 SDGs as it considers them important for the country and will prioritise ten SDGs out of the agreed seventeen goals. This commitment and prioritisation implies that there will be a greater demand for data from the National Statistical System for benchmarking and tracking progress in these goals. The NSDS will therefore seek to improve the availability of these data through strengthening administrative data systems, surveys and census to address the needs of the Government.
  
@@ -29,3 +29,10 @@ The Government of Zimbabwe has committed itself to implementing all the 17 SDGs 
 The peer review of the national statistical system (NSS) of Zimbabwe was carried out in March 2019 as part of the Pan-African Statistics (PAS) Programme. The review involved the study of documentation submitted by the Zimbabwe National Statistics Agency, ZIMSTAT, and a visit by a peer review team to Harare where the team held meetings with ZIMSTAT and representatives of various NSS stakeholders. The peer review followed the Manual on Peer Reviews of National Statistical Systems in Africa, issued by the African Union Commission.
  
 <small>18-22 March 2019</small>
+<br>
+<br>
+## [Assessment of the National Statistics System Report](https://www.zimstat.co.zw/wp-content/uploads/2022/NSDS/Zimbabwe_National_Statistical_System_Assessment_Report_Aug2022.pdf)
+
+To further ensure systematic improvement of statistics and respond to the changing data requirements especially the National Development Strategy 1 (2021- 2025), the Government of Zimbabwe through ZIMSTAT and the stakeholders have embarked on a successor NSDS III aimed at consolidating the gains of NSDS II and develop statistical strategies to be implemented during the plan period of 2021 to 2025.
+ 
+<small>2022</small>
