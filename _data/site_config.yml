@@ -202,7 +202,7 @@ menu:
     translation_key: menu.reporting_status
     dropdown: []
   - path: /news
-    translation_key: menu.Publications
+    translation_key: Publications
     dropdown: []
   - path: /faq
     translation_key: menu.faq
