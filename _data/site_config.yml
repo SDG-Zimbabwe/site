@@ -162,6 +162,7 @@ languages:
 languages_public: []
 logos: []
 map_layers:
+  -
     # The subfolder under 'geojson' in the data repository holding the GeoJSON files:
     subfolder: regions
     # The label to use in the "Download GeoJSON" button:
