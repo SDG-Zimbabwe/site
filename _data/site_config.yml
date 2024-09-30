@@ -68,7 +68,7 @@ footer_menu:
     translation_key: menu.contact_us
   - path: https://twitter.com/zimstat
     translation_key: general.twitter
-  - path: https://facebook.com/zimstat
+  - path: https://facebook.com/zimstat.zimstat
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
@@ -92,19 +92,25 @@ frontpage_cards:
     rule_color: ''
   - title: Publications & Useful resources
     content: >
- 
-      [Leaving no one behind - a review of who has been most affected by the coronavirus pandemic in the UK](https://www.ons.gov.uk/economy/environmentalaccounts/articles/leavingnoonebehindareviewofwhohasbeenmostaffectedbythecoronaviruspandemicintheuk/december2021)
- 
- 
-      [UK Sustainable Development Goals: use of non-official sources](https://www.ons.gov.uk/economy/environmentalaccounts/methodologies/uksustainabledevelopmentgoalsuseofnonofficialsources)
- 
+
+      [National Strategy for the Development of Statistics III (NSDS
+      III)](https://zimstats.devpreview.net/about_us/nsds/)
+
+
+      [Zimbabwe Peer Review of the National Statistical System
+      Report](https://www.zimstat.co.zw/wp-content/uploads/nss/2023/ZIMBABWE_NSS_PEER_REVIEW_REPORT.pdf)
+
+
+      [The Sustainable Development Goals in
+      Zimbabwe](https://zimbabwe.un.org/en)
+
+
+      [The Global Goals](https://www.globalgoals.org/)
+
       <br/><br/>
- 
-      <a href="./news" aria-label="More publications">More
-      publications...</a>
     include: ''
-    button_label: National Strategy for the Development of Statistics III (NSDS III)
-    button_link: https://zimstats.devpreview.net/about_us/nsds/
+    button_label: Publications
+    button_link: https://sdg-zimbabwe.github.io/site/news/
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
@@ -156,16 +162,23 @@ languages:
   - en
 languages_public: []
 logos: []
-map_layers: []
+map_layers:
+  - subfolder: regions
+    label: indicator.map
+    min_zoom: 0
+    max_zoom: 20
+    staticBorders: false
 map_options:
   disaggregation_controls: false
   minZoom: 5
   maxZoom: 10
-  tileURL: ''
+  tileURL: https://tile.openstreetmap.org/{z}/{x}/{y}.png
   tileOptions:
     id: ''
     accessToken: ''
-    attribution: ''
+    attribution: >-
+      &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>
+      contributors
   colorRange: chroma.brewer.BuGn
   noValueColor: '#f0f0f0'
   styleNormal:
@@ -185,7 +198,6 @@ map_options:
     opacity: 1
     fillOpacity: 0
     color: '#172d44'
-    dashArray: 5,5
 menu:
   - path: /
     translation_key: general.home
@@ -197,7 +209,7 @@ menu:
     translation_key: menu.reporting_status
     dropdown: []
   - path: /news
-    translation_key: menu.Publications
+    translation_key: Publications
     dropdown: []
   - path: /faq
     translation_key: menu.faq
