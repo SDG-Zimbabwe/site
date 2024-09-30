@@ -6,9 +6,10 @@ permalink: /news/
 ---
 
 ## Data StoryTelling: Data for Development
+
 The primary organization in Zimbabwe that generates official statistics, the [Zimbabwe National Statistics Agency](http://www.zimstat.co.zw/) (ZIMSTAT), is in charge of gathering and disseminating data to monitor Zimbabwe's progress toward the Sustainable Development Goals (SDGs). Together with stakeholders and other statisticians, ZIMSTAT is examining novel approaches and technologies that could be applied to close the gaps in SDG data.
 
-For more information on our publications please contact us at: zim_sdgs@zimstat.co.zw; pr@zimstat.co.zw
+For more information on our publications please contact us at: <zim_sdgs@zimstat.co.zw>; <pr@zimstat.co.zw>
 
 ## [Leaving no one behind - Monitoring COVID-19 Impact on Households](https://zimbabwe.opendataforafrica.org/wadppcg/monitoring-covid-19-impact-on-households)
  
