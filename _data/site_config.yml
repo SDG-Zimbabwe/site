@@ -216,7 +216,10 @@ menu:
     dropdown: []
   - path: /about
     translation_key: menu.about
-    dropdown: []
+  - translation_key: More Information
+    dropdown:
+      - path: /news
+        translation_key: Publications
 metadata_edit_url: metadata
 metadata_tabs:
   - scope: national
