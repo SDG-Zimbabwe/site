@@ -123,7 +123,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/2-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-1-2",
@@ -483,7 +483,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/4-1-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-2-1",
@@ -1619,7 +1619,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/15-1-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-2-1",
@@ -1635,7 +1635,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/15-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-4-1",
@@ -1779,7 +1779,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/16-2-3/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-3-1",
@@ -1987,7 +1987,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/17-6-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-7-1",
@@ -2091,7 +2091,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/17-18-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-18-3",
@@ -2099,7 +2099,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/17-18-3/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-19-1",
@@ -2115,7 +2115,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/17-19-2/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   }]
