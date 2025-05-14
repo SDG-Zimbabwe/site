@@ -3297,7 +3297,7 @@ var mapView = function () {
     $('.map').show();
     $('#map').sdgMap({
       indicatorId: indicatorId,
-      mapOptions: {"disaggregation_controls":true,"minZoom":5,"maxZoom":10,"tileURL":"","tileOptions":{"id":"","accessToken":"","attribution":""},"colorRange":"chroma.brewer.BuGn","noValueColor":"#f0f0f0","styleNormal":{"weight":1,"opacity":1,"fillOpacity":0.7,"color":"#888888","dashArray":""},"styleHighlighted":{"weight":1,"opacity":1,"fillOpacity":0.7,"color":"#111111","dashArray":""},"styleStatic":{"weight":2,"opacity":1,"fillOpacity":0,"color":"#172d44","dashArray":""}},
+      mapOptions: {"disaggregation_controls":true,"minZoom":5,"maxZoom":10,"tileURL":"https://tile.jawg.io/jawg-light/{z}/{x}/{y}.png?access-token=F92kT2chOaEl2gn6kJ7OKVkEOllHUcusNZdbiUyWi23NPf5KihMRO7p64aAQyMqr","tileOptions":{"id":"","accessToken":"","attribution":""},"colorRange":"chroma.brewer.BuGn","noValueColor":"#f0f0f0","styleNormal":{"weight":1,"opacity":1,"fillOpacity":0.7,"color":"#888888","dashArray":""},"styleHighlighted":{"weight":1,"opacity":1,"fillOpacity":0.7,"color":"#111111","dashArray":""},"styleStatic":{"weight":2,"opacity":1,"fillOpacity":0,"color":"#172d44","dashArray":""}},
       mapLayers: [{"subfolder":"country","label":"Zimbabwe","min_zoom":2,"max_zoom":4,"staticBorders":true},{"subfolder":"regions","label":"Zones","min_zoom":4,"max_zoom":6,"staticBorders":true}],
       precision: precision,
       precisionItems: precisionItems,
