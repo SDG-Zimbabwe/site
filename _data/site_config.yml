@@ -177,7 +177,7 @@ map_options:
   disaggregation_controls: true
   minZoom: 5
   maxZoom: 10
-  tileURL: ''
+  tileURL: 'https://tile.jawg.io/jawg-light/{z}/{x}/{y}.png?access-token=F92kT2chOaEl2gn6kJ7OKVkEOllHUcusNZdbiUyWi23NPf5KihMRO7p64aAQyMqr'
   tileOptions:
     id: ''
     accessToken: ''
