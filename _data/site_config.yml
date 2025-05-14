@@ -174,16 +174,14 @@ map_layers:
     max_zoom: 6
     staticBorders: true
 map_options:
-  disaggregation_controls: false
+  disaggregation_controls: true
   minZoom: 5
   maxZoom: 10
-  tileURL: https://tile.openstreetmap.org/{z}/{x}/{y}.png
+  tileURL: ''
   tileOptions:
     id: ''
     accessToken: ''
-    attribution: >-
-      &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>
-      contributors
+    attribution: ''
   colorRange: chroma.brewer.BuGn
   noValueColor: '#f0f0f0'
   styleNormal:
@@ -203,6 +201,7 @@ map_options:
     opacity: 1
     fillOpacity: 0
     color: '#172d44'
+    dashArray: ''
 menu:
   - path: /
     translation_key: general.home
