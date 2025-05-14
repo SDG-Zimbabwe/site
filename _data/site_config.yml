@@ -162,12 +162,17 @@ languages:
   - en
 languages_public: []
 logos: []
-map_layers:
+map_layers: 
+  - subfolder: country
+    label: Zimbabwe
+    min_zoom: 2
+    max_zoom: 4
+    staticBorders: true
   - subfolder: regions
-    label: indicator.map
-    min_zoom: 0
-    max_zoom: 20
-    staticBorders: false
+    label: Zones
+    min_zoom: 4
+    max_zoom: 6
+    staticBorders: true
 map_options:
   disaggregation_controls: false
   minZoom: 5
