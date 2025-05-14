@@ -163,7 +163,7 @@ languages:
 languages_public: []
 logos: []
 map_layers: 
-  - subfolder: country
+  - subfolder: regions
     label: Zimbabwe
     min_zoom: 2
     max_zoom: 4
@@ -174,15 +174,28 @@ map_layers:
     max_zoom: 6
     staticBorders: true
 map_options:
-  disaggregation_controls: true
-  minZoom: 5
+  disaggregation_controls: false
+  minZoom: 4
   maxZoom: 10
-  tileURL: 'https://tile.jawg.io/jawg-light/{z}/{x}/{y}.png?access-token=F92kT2chOaEl2gn6kJ7OKVkEOllHUcusNZdbiUyWi23NPf5KihMRO7p64aAQyMqr'
+  tileURL: 'https://{s}.tile.jawg.io/{id}/{z}/{x}/{y}{r}.png?access-token={accessToken}'
   tileOptions:
-    id: ''
-    accessToken: ''
-    attribution: ''
-  colorRange: chroma.brewer.BuGn
+    id: ed56748f-29f9-465e-9269-c715674ee5ff
+    accessToken: yrcGMvxCkRD6zZBF4x3mnAT3OGQJstAj7JvG1iy1UjEdy6JFeDfnzKvXrTK07CxF
+    attribution: >-
+      <a href="http://jawg.io" title="Provider of map tiles"
+      target="_blank">&copy; <b>Jawg</b>Maps</a> &copy; <a
+      href="https://www.openstreetmap.org/copyright" title="Provider of map visual data copywrite information">OpenStreetMap</a>
+      contributors | <a href="http://geoportal.statistics.gov.uk/" title="The Open Geography portal from the Office for National Statistics">ONS</a>
+  colorRange: 
+    -  '#c4e1c6'
+    -  '#b0d1b3'
+    -  '#9bc2a1'
+    -  '#87b28f'
+    -  '#74a37c'
+    -  '#60946b'
+    -  '#4d8559'
+    -  '#3a7747'
+    -  '#276836'
   noValueColor: '#f0f0f0'
   styleNormal:
     weight: 1
@@ -201,7 +214,7 @@ map_options:
     opacity: 1
     fillOpacity: 0
     color: '#172d44'
-    dashArray: ''
+    dashArray: '5,5'
 menu:
   - path: /
     translation_key: general.home
