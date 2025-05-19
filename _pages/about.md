@@ -26,5 +26,5 @@ The 17 Goals were adopted by all UN Member States in 2015, as part of the [2030 
 Answers to some specific questions about this website are included on our [frequently asked questions]({{ site.baseurl }}{% link _pages/faq.md %}) page.
 
 ## Feedback
-To provide feedback on our SDG data please [contact us]({{ [zimstat website](https://www.zimstat.co.zw/) }}/ sdg@zimstat.co.zw and pr@zimstat.co.zw)
+To provide feedback on our SDG data please [contact us]({{ site.baseurl }}/contact-us).
 
