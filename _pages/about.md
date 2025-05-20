@@ -9,7 +9,7 @@ This is the Sustainable Development Goals (SDGs) National Reporting Platform (NR
 <a href="https://www.zimstat.co.zw/">Zimbabwe National Statistical Agency (ZIMSTAT)</a> has a mission of producing effective and efficient statistical system that contributes to the improvement of the wellbeing of all citizens by 2030 including SDGs, it is the implementing Agency. To provide data for the SDGs, ZIMSTAT is collaborating with the Ministries, Departments and Agencies (MDAs) and other National Statistical System (NSS) partners.
 
 
-We are currently in the early stages of developing the NRP, so please provide input on SDG data to <zim_sdgs@zimstat.co.zw> and <pr@zimstat.co.zw>
+We are currently in the early stages of developing the NRP, so please provide input on SDG data to zim_sdgs@zimstat.co.zw and pr@zimstat.co.zw
 
 The [Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/) (SDGs) are a universal call to action to:
 
