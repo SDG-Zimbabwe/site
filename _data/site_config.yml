@@ -133,7 +133,10 @@ header_language_toggle: dropdown
 hide_empty_metadata: true
 hide_single_series: true
 hide_single_unit: true
-ignored_disaggregations: [SOURCE_DETAIL]
+ignored_disaggregations: 
+  - SOURCE_DETAIL
+  - COMMENT_OBS
+  - TIME_PERIOD
 indicator_config_form:
   enabled: true
   dropdowns: []
