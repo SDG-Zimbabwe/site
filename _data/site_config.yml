@@ -167,11 +167,6 @@ languages_public: []
 logos: []
 map_layers: 
   - subfolder: regions
-    label: Zimbabwe
-    min_zoom: 2
-    max_zoom: 4
-    staticBorders: true
-  - subfolder: regions
     label: Zones
     min_zoom: 4
     max_zoom: 6
