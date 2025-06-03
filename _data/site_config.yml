@@ -168,7 +168,7 @@ logos: []
 map_layers: 
   - subfolder: regions
     label: Zones
-    min_zoom: 4
+    min_zoom: 2
     max_zoom: 6
     staticBorders: true
 map_options:
