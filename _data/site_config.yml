@@ -48,13 +48,13 @@ custom_js:
   - /assets/js/custom.js
 data_edit_url: data
 data_fields:
-  units: ''
-  series: ''
+  units: 'UNIT_MEASURE'
+  series: 'SERIES'
 date_formats: []
 disclaimer:
   phase: ''
   message: ''
-  hidden: false
+  hidden: true
 email_contacts:
   questions: katoval@zimstat.co.zw
   suggestions: katoval@zimstat.co.zw
@@ -133,7 +133,10 @@ header_language_toggle: dropdown
 hide_empty_metadata: true
 hide_single_series: true
 hide_single_unit: true
-ignored_disaggregations: []
+ignored_disaggregations: 
+  - SOURCE_DETAIL
+  - COMMENT_OBS
+  - TIME_PERIOD
 indicator_config_form:
   enabled: true
   dropdowns: []
@@ -162,24 +165,26 @@ languages:
   - en
 languages_public: []
 logos: []
-map_layers:
+map_layers: 
   - subfolder: regions
-    label: indicator.map
-    min_zoom: 0
-    max_zoom: 20
-    staticBorders: false
+    label: Zones
+    min_zoom: 2
+    max_zoom: 6
+    staticBorders: true
 map_options:
   disaggregation_controls: false
-  minZoom: 5
+  minZoom: 4
   maxZoom: 10
-  tileURL: https://tile.openstreetmap.org/{z}/{x}/{y}.png
+  tileURL: 'https://{s}.tile.jawg.io/{id}/{z}/{x}/{y}{r}.png?access-token={accessToken}'
   tileOptions:
-    id: ''
-    accessToken: ''
+    id: ed56748f-29f9-465e-9269-c715674ee5ff
+    accessToken: yrcGMvxCkRD6zZBF4x3mnAT3OGQJstAj7JvG1iy1UjEdy6JFeDfnzKvXrTK07CxF
     attribution: >-
-      &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>
-      contributors
-  colorRange: chroma.brewer.BuGn
+      <a href="http://jawg.io" title="Provider of map tiles"
+      target="_blank">&copy; <b>Jawg</b>Maps</a> &copy; <a
+      href="https://www.openstreetmap.org/copyright" title="Provider of map visual data copywrite information">OpenStreetMap</a>
+      contributors | <a href="http://geoportal.statistics.gov.uk/" title="The Open Geography portal from the Office for National Statistics">ONS</a>
+  colorRange: 'opensdg.mapColors.default'
   noValueColor: '#f0f0f0'
   styleNormal:
     weight: 1
@@ -198,6 +203,7 @@ map_options:
     opacity: 1
     fillOpacity: 0
     color: '#172d44'
+    dashArray: '5,5'
 menu:
   - path: /
     translation_key: general.home
