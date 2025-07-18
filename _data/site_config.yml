@@ -137,6 +137,8 @@ ignored_disaggregations:
   - SOURCE_DETAIL
   - COMMENT_OBS
   - TIME_PERIOD
+  - OBS_STATUS
+  - UNIT_MULT
 indicator_config_form:
   enabled: true
   dropdowns: []
