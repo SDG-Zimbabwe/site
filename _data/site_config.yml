@@ -137,6 +137,8 @@ ignored_disaggregations:
   - SOURCE_DETAIL
   - COMMENT_OBS
   - TIME_PERIOD
+  - OBS_STATUS
+  - UNIT_MULT
 indicator_config_form:
   enabled: true
   dropdowns: []
@@ -255,8 +257,20 @@ proxy_indicators:
 remote_data_prefix: https://sdg-zimbabwe.github.io/data/
 reporting_status:
   title: status.reporting_status
-  description: status.description
-  disaggregation_tabs: false
+  description: 'Reporting status provides an overview of how much Sustainable Development
+    Goals (SDGs) data Zimbabwe reports on. For more information, see [What does the
+    reporting status
+    mean?](https://sdg-zimstat.github.io/faq/#what-does-the-reporting-status-mean)
+    
+    
+    For details about all available disaggregations and how each indicator is
+    disaggregated, see the [Zimbabwe disaggregation
+    report](https://sdg-zimbabwe.github.io/data/disaggregations.html).
+    
+    
+    Note: These percentages have been rounded up. As a result, adding them together
+    may not equal exactly 100%.'
+  disaggregation_tabs: true
   status_types:
     - value: notstarted
       label: status.no_data_available
